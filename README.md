@@ -1,11 +1,11 @@
-# Just Another Text Editor: A Progressive Web App
+# Text Editor with (PWA)
 
 ## Description
 Just Another Text Editor, or JATE, is a text editor that runs in the browser. JATE features multiple data persistence techniques that act as redundancy if any of the options are not supported by the browser. This application will work offline and can be installed to the user's computer.
 
 Screenshot of Application: ![Screenshot of JATE](./assets/Screenshot%202023-10-20%20112634.png)
 
-Application deployed through [Heroku](https://young-basin-21902-c8c0b9f42332.herokuapp.com/)
+Application link deployed through [Heroku](https://young-basin-21902-c8c0b9f42332.herokuapp.com/)
 
 
   ## Table of Contents
